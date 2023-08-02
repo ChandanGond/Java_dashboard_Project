@@ -1,3 +1,7 @@
+/* The program will display a menu with options to deposit, withdraw, check balance, and exit. You can create a bank account, 
+perform transactions, and see the balance by selecting the appropriate options. 
+This is a basic bank account management system. */
+
 import java.util.Scanner;
 
 class BankAccount {
